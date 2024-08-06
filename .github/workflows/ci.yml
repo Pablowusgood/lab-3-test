@@ -1,4 +1,4 @@
-nmame: lab 3 Create Artifact
+name: lab 3 Create Artifact
 on:
   push:
     branches:
